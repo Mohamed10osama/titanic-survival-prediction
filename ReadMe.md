@@ -19,6 +19,22 @@ A Machine Learning model that predicts which passengers survived the Titanic shi
 | Accuracy | 80% |
 | Precision | 79% |
 | Recall | 79% |
+## Results
+
+### Survival Count
+![Survival Count](survival_count.png)
+
+### Survival by Sex
+![Survival by Sex](survival_sex.png)
+
+### Survival by Class
+![Survival by Class](survival_Pclass.png)
+
+### Age Distribution
+![Age Distribution]("survival_Age.png)
+
+### Confusion Matrix
+![Confusion Matrix](Confusion_matrix.png)
 
 ## Technologies
 - Python
